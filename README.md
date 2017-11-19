@@ -1,6 +1,6 @@
 # play_ml
-## はじめに
-* Machine Learning で個人的に遊ぶ場
+## 概要
+* Machine Learning（というかscikit-learn) で個人的に遊ぶ場
 
 ## 目次
 * [preprocessing](https://github.com/takitsuba/play_ml/tree/master/preprocessing)
@@ -10,10 +10,13 @@
 	* [KNearestNeighbors](https://github.com/takitsuba/play_ml/blob/master/neighbors/KNearestNeighbors.ipynb )
 * cluster
 	* [Kmeans](https://github.com/takitsuba/play_ml/blob/master/cluster/Kmeans.ipynb)
+* model_selection
+	* [StratifiedKFold](https://github.com/takitsuba/play_ml/blob/master/model_selection/StratifiedKFold.ipynb)
 * others
 	* [CPUcheck](https://github.com/takitsuba/play_ml/blob/master/others/CPUcheck.ipynb)
 
-## 参考書籍
+## 参考
+* [scikit-learn](http://scikit-learn.org/)
 * [はじめてのパターン認識](http://amzn.to/2AaiUyM)
 * [Python機械学習プログラミング](http://amzn.to/2zLJjlU)
 * [Pythonではじめる機械学習](http://amzn.to/2it7FHi)
