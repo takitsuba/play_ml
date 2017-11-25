@@ -10,6 +10,8 @@
 	* [KNearestNeighbors](https://github.com/takitsuba/play_ml/blob/master/neighbors/KNearestNeighbors.ipynb )
 * cluster
 	* [Kmeans](https://github.com/takitsuba/play_ml/blob/master/cluster/Kmeans.ipynb)
+* metrics
+    * [mean_squared_error](https://github.com/takitsuba/play_ml/blob/master/metrics/mean_squared_error.ipynb)
 * model_selection
 	* [StratifiedKFold](https://github.com/takitsuba/play_ml/blob/master/model_selection/StratifiedKFold.ipynb)
 * [others](https://github.com/takitsuba/play_ml/tree/master/others)
