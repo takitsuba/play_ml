@@ -6,6 +6,7 @@
 * [preprocessing](https://github.com/takitsuba/play_ml/tree/master/preprocessing)
 	* [LabelEncoder,OneHotEncoding,pd.get_dummies](https://github.com/takitsuba/play_ml/blob/master/preprocessing/LabelEncoder_OneHotEncoder_pd-get_dummies.ipynb)
 	* [Standardization](https://github.com/takitsuba/play_ml/blob/master/preprocessing/Standardization_sklearn.preprocessing.StandardScaler.ipynb)
+    * [fill_zero](https://github.com/takitsuba/play_ml/blob/master/preprocessing/fill_zero.ipynb)
     * [timeseries](https://github.com/takitsuba/play_ml/blob/master/preprocessing/timeseries.ipynb)
 * neighbors
 	* [KNearestNeighbors](https://github.com/takitsuba/play_ml/blob/master/neighbors/KNearestNeighbors.ipynb )
