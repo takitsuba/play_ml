@@ -16,6 +16,7 @@
     * [mean_squared_error](https://github.com/takitsuba/play_ml/blob/master/metrics/mean_squared_error.ipynb)
 * model_selection
 	* [StratifiedKFold](https://github.com/takitsuba/play_ml/blob/master/model_selection/StratifiedKFold.ipynb)
+    * [TimeSeriesSplit](https://github.com/takitsuba/play_ml/blob/master/model_selection/TimeSeriesSplit.ipynb)
 * [others](https://github.com/takitsuba/play_ml/tree/master/others)
 	* [CPUcheck](https://github.com/takitsuba/play_ml/blob/master/others/CPUcheck.ipynb)
 	* [tqdm](https://github.com/takitsuba/play_ml/blob/master/others/tqdm.ipynb)
