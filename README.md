@@ -1,6 +1,7 @@
 # play_ml
 ## 概要
-* Machine Learning（というかscikit-learn) で個人的に遊ぶ場
+* 機械学習で気になったメソッドを個人的にまとめています。
+* 主に `scikit-learn` や `pandas` のものが多いです。
 
 ## 目次
 * [preprocessing](https://github.com/takitsuba/play_ml/tree/master/preprocessing)
