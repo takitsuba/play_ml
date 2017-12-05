@@ -21,6 +21,8 @@
 * [others](https://github.com/takitsuba/play_ml/tree/master/others)
 	* [CPUcheck](https://github.com/takitsuba/play_ml/blob/master/others/CPUcheck.ipynb)
 	* [tqdm](https://github.com/takitsuba/play_ml/blob/master/others/tqdm.ipynb)
+    * [pickle](https://github.com/takitsuba/play_ml/blob/master/others/pickle.ipynb)
+    
 ## 参考
 * [scikit-learn](http://scikit-learn.org/)
 * [はじめてのパターン認識](http://amzn.to/2AaiUyM)
