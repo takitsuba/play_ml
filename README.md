@@ -1,6 +1,6 @@
 # play_ml
 ## 概要
-* 機械学習で気になったメソッドを個人的にまとめています。
+* 機械学習、データ分析関連で気になったメソッドを個人的にまとめています。
 * 主に `scikit-learn` や `pandas` のものが多いです。
 
 ## 目次
@@ -18,10 +18,15 @@
 * model_selection
 	* [StratifiedKFold](https://github.com/takitsuba/play_ml/blob/master/model_selection/StratifiedKFold.ipynb)
     * [TimeSeriesSplit](https://github.com/takitsuba/play_ml/blob/master/model_selection/TimeSeriesSplit.ipynb)
+* ReinforcementLearning
+    * [ChainerRL](https://github.com/takitsuba/play_chainerrl/blob/master/quickstart.ipynb)
+    * [Sarsa](https://github.com/takitsuba/korerl/blob/master/1_3_3_sarsa.ipynb)
+    * [Q-learning](https://github.com/takitsuba/korerl/blob/master/1_3_5_Qlearning.ipynb)
 * [others](https://github.com/takitsuba/play_ml/tree/master/others)
 	* [CPUcheck](https://github.com/takitsuba/play_ml/blob/master/others/CPUcheck.ipynb)
 	* [tqdm](https://github.com/takitsuba/play_ml/blob/master/others/tqdm.ipynb)
     * [pickle](https://github.com/takitsuba/play_ml/blob/master/others/pickle.ipynb)
+    * [sqlite3](https://github.com/takitsuba/play_sqlite3/blob/master/sqlite3.ipynb)
     
 ## 参考
 * [scikit-learn](http://scikit-learn.org/)
