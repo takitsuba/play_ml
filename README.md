@@ -35,3 +35,5 @@
 * [Pythonではじめる機械学習](http://amzn.to/2it7FHi)
 * [経済・ファイナンスデータの計量時系列分析](http://amzn.to/2AyHqtI)
 * [現場ですぐ使える時系列データ分析](http://amzn.to/2iT6CjU)
+* [これからの強化学習](http://amzn.to/2k5OTp8)
+* [Qiita](https://qiita.com/trend)
