@@ -11,6 +11,8 @@
     * [timeseries](https://github.com/takitsuba/play_ml/blob/master/preprocessing/timeseries.ipynb)
 * neighbors
 	* [KNearestNeighbors](https://github.com/takitsuba/play_ml/blob/master/neighbors/KNearestNeighbors.ipynb )
+* svm
+    * [SVMandLogisticRegression](https://github.com/takitsuba/play_ml/blob/master/svm/SVMandLogisticRegression.ipynb)
 * cluster
 	* [Kmeans](https://github.com/takitsuba/play_ml/blob/master/cluster/Kmeans.ipynb)
 * metrics
